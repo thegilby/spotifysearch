@@ -20,15 +20,13 @@ h1 {
 #content, #searchForm { margin-bottom: 5px; }
 #searchText {width: 210px; margin-left: 18px;}
 
-ul{padding:0;list-style:square; }
+ul{padding:0;list-style:square;}
 li{padding:0 0 0 18px; margin-top:3px; font: 8px;}
 li:first-child{margin-top:0;}
 li:hover { background: #212121;}
 .alternate {background: #303030;}
 
-p, a {font-family: "lucida grande",tahoma,arial,sans-serif; outline: none; }
+p, a {font-family: "lucida grande",tahoma,arial,sans-serif; outline: none;}
 p { color: #8F8F8F; }
-a, label { color: #b3b3b3; text-decoration: none; cursor: pointer; }
+a, label { color: #b3b3b3; text-decoration: none; cursor: pointer;}
 a:hover { color: #c0f479; }
-
-

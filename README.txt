@@ -24,4 +24,4 @@ jQuery: http://docs.jquery.com/
 Google Chrome Extensions: http://code.google.com/chrome/extensions/
 
 ACKNOWLEDGEMENTS
-“This product uses a SPOTIFY API but is not endorsed, certified or otherwise approved in any way by Spotify. Spotify is the registered trade mark of the Spotify Group.”
+This product uses a SPOTIFY API but is not endorsed, certified or otherwise approved in any way by Spotify. Spotify is the registered trade mark of the Spotify Group.
