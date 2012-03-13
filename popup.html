@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet" type="text/css" />
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js"></script>
+		<script type='text/javascript' src="scripts.js"></script>	
+	</head>
+	<body>
+		<h1>Spotify Search</h1>
+		<form id="searchForm">			
+			<input type="text" id="searchText">
+			<input type="radio" name="searchType" value="Artist" checked="checked">
+			<label for="searchType">Artist</label>
+			
+			<input type="radio" name="searchType" value="Album">
+			<label for="searchType">Album</label>
+			
+			<input type="radio" name="searchType" value="Track">
+			<label for="searchType">Track</label>
+			
+			<input type="submit" value="Search" id="search">
+		</form>
+		<div id="content">
+		</div>
+	</body>
+</html>
+	

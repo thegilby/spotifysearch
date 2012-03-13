@@ -1,0 +1,10 @@
+{
+  "name": "Spotify Search",
+  "description": "Searches Spotify library (album, artist, track) for search terms. Opens new tab with Spotify page when results are clicked.",
+  "version": "0.1",
+  "browser_action": {
+    "name": "Search Spotify Library",
+    "default_icon": "images/icon.png",
+	"popup": "popup.html"
+  }
+}
